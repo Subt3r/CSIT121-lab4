@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    background: url("images/background.png") no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, footer {
+    background-color: #4f0f01;
+    color: rgb(251, 249, 249);
+    text-align: center;
+    padding: 1em;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: rgb(18, 15, 15);
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 300px;
+    display: block;
+    margin: 10px 0;
+  }
+  
